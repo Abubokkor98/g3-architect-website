@@ -42,7 +42,6 @@
   border: none;
 }
 main {
-  border: 2px solid green;
   max-width: 1400px;
   margin: 0 auto;
 }
@@ -59,7 +58,6 @@ main > section{
 
 /* header style */
 header{
-  border: 2px solid red;
   max-width: 1520px;
 }
 
